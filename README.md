@@ -1,4 +1,4 @@
-# array_rotation-v-2.0
+# array_rotation_v2.0
 Arrat rotation in n*m matrix
 
 The program reads the initial matrix (max 30 x 30) from a file, whose name (20 characters maximum) is
@@ -17,11 +17,14 @@ Example of input file:
 1 2 3 
 4 5 6
 7 8 9
+ 
 Example of sequential commands acquired from keyboard:
 row 2 right 1
 column 3 down 2
 row 1 left 4
 column 1 up 2
 end 1 end 1
-The results of the rotation operations are represented by the following figure:
+ 
+The results of the rotation operations:
+ 
 <img width="1049" alt="image" src="https://user-images.githubusercontent.com/91722056/236355409-9da4da6d-09eb-4378-9b97-5c7dfd9dc6a6.png">
