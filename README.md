@@ -10,22 +10,6 @@ Where <selector> is either the string “row”, “column” or “end”, resp
 <direction> is either the string “right”, ”left”, ”up” or “down”, indicating the direction of the rotation
 <locations> is a positive integer indicating the number of positions P of the rotation.
 The resulting matrix after each sequential rotation printed on the screen.
-
- 
-Example of input file:
-
-3 3 
-1 2 3 
-4 5 6
-7 8 9
- 
-Example of sequential commands acquired from keyboard:\n
-
-row 2 right 1
-column 3 down 2
-row 1 left 4
-column 1 up 2
-end 1 end 1
  
 The results of the rotation operations:
  
