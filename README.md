@@ -13,12 +13,14 @@ The resulting matrix after each sequential rotation printed on the screen.
 
  
 Example of input file:
+
 3 3 
 1 2 3 
 4 5 6
 7 8 9
  
-Example of sequential commands acquired from keyboard:
+Example of sequential commands acquired from keyboard:\n
+
 row 2 right 1
 column 3 down 2
 row 1 left 4
